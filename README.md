@@ -1,16 +1,100 @@
-# abf_web
+# ALL BADDIES FRONT — Flutter Web Platform
 
-A new Flutter project.
+A responsive Flutter Web platform for a constitutional youth movement advocating women’s safety, rapid justice, and independence.
 
-## Getting Started
+Built using Flutter and Dart, the platform focuses on mobile-first responsiveness, lightweight performance, scalable onboarding systems, and real-time public engagement infrastructure.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Live Platform
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Public Website:  
+https://abf-web.web.app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GitHub Repository:  
+https://github.com/shimonworks/abf-web
+
+---
+
+## Features
+
+- Responsive mobile-first architecture
+- Dedicated manifesto experience
+- Real-time live statistics integration
+- Google Forms onboarding ecosystem
+- Supporter registration workflow
+- Chapter application workflow
+- Volunteer onboarding workflow
+- Adaptive mobile navigation system
+- Lightweight optimized UI
+- Scalable widget-driven architecture
+- Modular page and theme management
+- Dynamic responsive layouts across devices
+
+---
+
+## Tech Stack
+
+### Frontend
+- Flutter Web
+- Dart
+
+### Integrations
+- Google Forms
+- Google Sheets CSV APIs
+
+### Hosting
+- Firebase Hosting
+
+---
+
+## Project Architecture
+
+The platform was designed using a modular and scalable Flutter architecture emphasizing maintainability, responsive UI engineering, reusable components, centralized theme management, and separation of business logic from presentation layers.
+
+The codebase includes:
+- reusable widget systems
+- responsive breakpoint utilities
+- centralized typography and color systems
+- live API-driven statistics services
+- page-based routing architecture
+- modular onboarding integrations
+- reusable navigation infrastructure
+
+This structure allows the platform to scale efficiently while remaining lightweight and maintainable.
+
+---
+
+## Live Statistics System
+
+The website dynamically retrieves:
+
+- Total supporter registrations
+- Unique chapter applications
+- Volunteer onboarding count
+
+Data is fetched in real-time from publicly published Google Sheets CSV endpoints and rendered dynamically on the homepage.
+
+---
+
+## Design Goals
+
+The platform was developed with emphasis on:
+
+- Mobile-first usability
+- Lightweight performance
+- Clean modern UI
+- High readability
+- Scalable civic-tech infrastructure
+- Responsive accessibility
+- Minimalist interaction design
+- Fast-loading public deployment
+
+---
+
+## Local Development
+
+### Clone Repository
+
+```bash
+git clone https://github.com/shimonworks/abf-web.git
